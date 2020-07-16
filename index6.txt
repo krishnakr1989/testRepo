@@ -1,3 +1,4 @@
 new file in b1
 new line for merge conflicts
 new conflicts by KKKKK
+in masterrrrrrrrrrrrrrrrrrrrrrrrrrrrr
