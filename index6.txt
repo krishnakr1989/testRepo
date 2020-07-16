@@ -1,2 +1,3 @@
 new file in b1
 new line for merge conflicts
+conflicts from Brabcb BBBBBBBB2 
