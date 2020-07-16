@@ -1,4 +1,9 @@
 new file in b1
 new line for merge conflicts
-new conflicts by KKKKK
+conflicts from Brabcb BBBBBBBB2 
+new conflicts by KKK
+
 in masterrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+
+
+
